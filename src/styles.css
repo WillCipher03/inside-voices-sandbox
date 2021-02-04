@@ -1,4 +1,16 @@
-.App {
-  font-family: sans-serif;
+body {
+  background-color: #d3e6e4;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
+  margin: 0;
+  padding: 0;
+}
+a {
+  color: grey;
+}
+header {
+  background-color: #faccca;
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
 }
