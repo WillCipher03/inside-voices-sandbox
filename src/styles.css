@@ -1,16 +1,24 @@
 body {
+  margin: 0;
+  padding: 0;
   background-color: #d3e6e4;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
-  margin: 0;
-  padding: 0;
 }
 a {
   color: grey;
+  text-decoration: none;
 }
 header {
   background-color: #faccca;
-  display: flex;
-  flex-direction: column;
   padding: 5px;
+  flex: 1;
+}
+
+.App {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
 }
