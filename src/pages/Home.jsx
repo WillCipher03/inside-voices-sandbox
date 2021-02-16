@@ -9,7 +9,6 @@ const Home = () => {
           <h1> Inside Voice</h1>
         </Link>
         <div>
-          <Link to="/account-settings">Account Settings</Link>
           <Link to="/create-playlist">Create Playlist</Link>
           <Link to="/sign-in">Sign In</Link>
           <Link to="/sign-up">Sign In</Link>
