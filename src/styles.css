@@ -8,6 +8,7 @@ body {
 a {
   color: grey;
   text-decoration: none;
+  padding: 5px;
 }
 header {
   background-color: #faccca;
@@ -21,4 +22,7 @@ header {
   display: flex;
   justify-content: center;
   flex-direction: column;
+}
+.AlbumCover {
+  height: 30vw;
 }
